@@ -76,7 +76,7 @@ bash project2/step8_demo/demo_turtle.sh                  # то же в turtlesi
 | 5 | [`step5_inference_node`](step5_inference_node/README.md) | `classifier_node`: onnxruntime, 5 Гц | готово |
 | 6 | [`step6_controller`](step6_controller/README.md) | `controller_node`: ожидаемая свободная энергия + порог уверенности | готово |
 | 7 | [`step7_gradio_panel`](step7_gradio_panel/README.md) | панель: кадр, вероятности, решение, разложение G | готово |
-| 8 | [`step8_demo`](step8_demo/README.md) | turtlesim: видео записано, три действия; Gazebo — отдельный чат | turtlesim готов; **Gazebo в работе** |
+| 8 | [`step8_demo`](step8_demo/README.md) | turtlesim: видео записано, три действия; Gazebo — отдельный чат | готово |
 
 ## Где что лежит, кроме шагов
 
