@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>birdcls</name>
+  <version>0.1.0</version>
+  <description>Классификация поведения птиц в реальном времени и контроллер на активном выводе</description>
+  <maintainer email="khodarevaekaterina@gmail.com">Kate</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
