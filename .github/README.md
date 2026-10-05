@@ -69,14 +69,14 @@ bash project2/step8_demo/demo_turtle.sh                  # то же в turtlesi
 
 | шаг | папка | что сделано | статус |
 |---|---|---|---|
-| 1 | [`step1_task_design`](step1_task_design/README.md) | класс → действие: подъехать / стоять / отъехать | готово |
-| 2 | [`step2_model`](step2_model/README.md) | итоговая модель Проекта 1, accuracy 0.510, macro-F1 0.402 | готово |
-| 3 | [`step3_onnx_export`](step3_onnx_export/README.md) | экспорт и сверка: расхождение 2.15·10⁻⁶, 0 смен класса | готово |
-| 4 | [`step4_ros2_architecture`](step4_ros2_architecture/README.md) | узел внутри ROS 2, пакет `birdcls`, 4 топика | готово |
-| 5 | [`step5_inference_node`](step5_inference_node/README.md) | `classifier_node`: onnxruntime, 5 Гц | готово |
-| 6 | [`step6_controller`](step6_controller/README.md) | `controller_node`: ожидаемая свободная энергия + порог уверенности | готово |
-| 7 | [`step7_gradio_panel`](step7_gradio_panel/README.md) | панель: кадр, вероятности, решение, разложение G | готово |
-| 8 | [`step8_demo`](step8_demo/README.md) | turtlesim: видео записано, три действия; Gazebo — отдельный чат | готово |
+| 1 | [`step1_task_design`](project2/step1_task_design/README.md) | класс → действие: подъехать / стоять / отъехать | готово |
+| 2 | [`step2_model`](project2/step2_model/README.md) | итоговая модель Проекта 1, accuracy 0.510, macro-F1 0.402 | готово |
+| 3 | [`step3_onnx_export`](project2/step3_onnx_export/README.md) | экспорт и сверка: расхождение 2.15·10⁻⁶, 0 смен класса | готово |
+| 4 | [`step4_ros2_architecture`](project2/step4_ros2_architecture/README.md) | узел внутри ROS 2, пакет `birdcls`, 4 топика | готово |
+| 5 | [`step5_inference_node`](project2/step5_inference_node/README.md) | `classifier_node`: onnxruntime, 5 Гц | готово |
+| 6 | [`step6_controller`](project2/step6_controller/README.md) | `controller_node`: ожидаемая свободная энергия + порог уверенности | готово |
+| 7 | [`step7_gradio_panel`](project2/step7_gradio_panel/README.md) | панель: кадр, вероятности, решение, разложение G | готово |
+| 8 | [`step8_demo`](project2/step8_demo/README.md) | turtlesim: видео записано, три действия; Gazebo — отдельный чат | готово |
 
 ## Где что лежит, кроме шагов
 
